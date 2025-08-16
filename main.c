@@ -4,6 +4,9 @@
 
 static inline int replace(wchar_t c)
 {
+	if(!isascii(c)) {
+		return 0;
+	}
 	int l = tolower(c);
 	return l == 'b' || l == 'p';
 }
