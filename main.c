@@ -1,3 +1,5 @@
+// Copyright (C) 2025 therealblue24 under the MIT license
+// Enterprise-grade code here
 #include <stdio.h>
 #include <wchar.h>
 #include <ctype.h>
