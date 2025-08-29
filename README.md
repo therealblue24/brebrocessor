@@ -4,7 +4,7 @@ It re🅱️laces 🅱️s and 🅱️ (P) s with 🅱️
 
 Enter in🅱️ut via stdin and the 🅱️re🅱️rocessor will out🅱️ut the 🅱️re🅱️rocessed text in stdout
 
-## Build
+## 🅱️uild
 
 ```sh
 $ ./build.sh
